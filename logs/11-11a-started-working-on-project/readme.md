@@ -1,0 +1,1 @@
+- working on the functions.py file, adding the pca computation function
