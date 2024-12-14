@@ -13,8 +13,10 @@ contents of the Stat Gen project
 
 NOTE: Find data used for these results at: https://drive.google.com/drive/folders/1MPShwoesZ2Ab-hqPpE0naIV_Y69xjVgG?usp=sharing
 
-All contents of this section in the file: `simulated_population_validation.ipynb`
+All contents of this section in the file: `simulated_population_validation.ipynb`.
+
 Includes: 
+
 - PCA on parent and simulated populations.
 - Modifying the np array to get it into the input file format for STRUCTURE. STRUCTURE was run using a borrowed windows pc with default settings (MCMC iterations = 3000, K = 3), using just the file produced in the STRUCTURE data modification section of simulated_population_validation.ipynb file (stored in STRUCTURE_input_files/3k_snps_data).
 - Computation of Admixture-LD and subsequent plotting for the different populations.
