@@ -1,3 +1,6 @@
+GAUDI Pipeline
+
+
 1. Simulate recombination to generate simulated genotypes, and save ASW, CEU, YRI, and simulated genos to npy files. (sim_recomb_and_save_geno.ipynb)
 2. Populate VCF files using SNP and GENO information. (geno_to_vcf.ipynb)
 3. Predict local ancestry probabilities using generated VCF files as input. (flare.sh)
