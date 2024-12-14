@@ -35,6 +35,11 @@ Admixture LD results were as follows:
 
 ![Admixture-LD results](./results/admixture_ld_plot_4.png)
 
+
+All files for GAUDI, including genetic distance map files, geno files, local ancestry probability files, FLARE output files, and constructed VCF files:
+https://drive.google.com/drive/folders/1Rxse6XbaurUwjoPN7NFG6viknOv-k12P?usp=drive_link
+
+
 ### References
 
 - Padhukasahasram, B., Marjoram, P., Wall, J. D., Bustamante, C. D., \& Nordborg, M. (2008). Exploring population genetic models with recombination using efficient forward-time simulations. Genetics, 178(4), 2417–2427. 
